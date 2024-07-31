@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import landingImage from "../assets/png/landing-image.png";
 import secondImage from "../assets/png/second-landing.png";
 import svgLanding from "../assets/png/svg-landing.png";
