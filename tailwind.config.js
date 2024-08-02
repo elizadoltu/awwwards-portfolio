@@ -9,7 +9,16 @@ export default {
       fontFamily: {
         'urbanist' : ['Urbanist', 'sans-serif'],
         'clash-grotesk-bold' : ['Clash Grotesk Bold']
-      }
+      },
+      margin: {
+        '128' : '36rem'
+      },
+      backgroundColor: {
+        'bg-color' : 'var(--background-color)',
+      },
+      colors: {
+        'font-color' : 'var(--font-color)',
+      },
     },
   },
   plugins: [],

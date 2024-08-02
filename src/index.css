@@ -4,6 +4,11 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+  --background-color: #EDEDED;
+  --font-color: #090909;
+}
+
 @font-face {
   font-family: 'Clash Grotesk Bold';
   src: url('./fonts//ClashGrotesk-Bold.otf') format('opentype');
@@ -27,7 +32,6 @@
   src: url('./fonts//ClashGrotesk-Light.otf') format('opentype');
   font-weight: light;
 }
-
 
 body {
   margin: 0%;
