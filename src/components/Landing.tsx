@@ -81,10 +81,10 @@ const Landing = () => {
         </div>
       </div>
       <div className="right-0 absolute mr-5 -mt-36">
-        <div><a href="http://instagram/elizadoltu.design/"><img src={instagram} alt="instagram logo" /></a></div>
-        <div className="mt-3"><a href="http://behance.net/elizadoltu/"><img src={behance} alt="behance logo" /></a></div>
-        <div className="mt-3"><a href="mailto:elizadoltuofficial@gmail.com"><img src={email} alt="gmail logo" /></a></div>
-        <div className="mt-3"><a href="tel:+40732134019"><img src={whatsapp} alt="whatsapp logo" /></a></div>
+        <div><a href="http://instagram/elizadoltu.design/" target="_blank"><img src={instagram} alt="instagram logo" /></a></div>
+        <div className="mt-3"><a href="http://behance.net/elizadoltu/" target="_blank"><img src={behance} alt="behance logo" /></a></div>
+        <div className="mt-3"><a href="mailto:elizadoltuofficial@gmail.com" target="_blank"><img src={email} alt="gmail logo" /></a></div>
+        <div className="mt-3"><a href="tel:+40732134019" target="_blank"><img src={whatsapp} alt="whatsapp logo" /></a></div>
       </div>
     </div>
   );

@@ -11,13 +11,17 @@ export default {
         'clash-grotesk-bold' : ['Clash Grotesk Bold']
       },
       margin: {
-        '128' : '36rem'
+        '128' : '36rem',
+        '256' : '39rem',
       },
       backgroundColor: {
         'bg-color' : 'var(--background-color)',
       },
       colors: {
         'font-color' : 'var(--font-color)',
+      },
+      width: {
+        '128': '40rem',
       },
     },
   },
