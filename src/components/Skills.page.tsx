@@ -5,7 +5,7 @@ import '../css/skills-page.css';
 
 const Skills = () => {
     return (
-      <div className="h-screen bg-bg-color flex flex-col">
+      <div className="w-full h-auto bg-bg-color flex flex-col skills-container">
         <div className="ml-5 titles-skills">
             <h1 className="font-clash-grotesk-bold text-font-color text-9xl titles-skills">BORN TO CREATE</h1>
             <h1 className="font-clash-grotesk-bold text-font-color text-9xl titles-skills">BUT ALSO TO <span className="font-urbanist font-regular italic">LEARN</span></h1>
