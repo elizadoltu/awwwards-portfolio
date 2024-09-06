@@ -25,7 +25,7 @@ const Projects: React.FC = () => {
   }, []);
 
   return (
-    <div className="w-full font-urbanist overflow-x-hidden">
+    <div className="w-full font-urbanist overflow-x-hidden overflow-y-hidden">
       {data.data.map((project: ProjectData, index) => (
         <div
           key={index}
