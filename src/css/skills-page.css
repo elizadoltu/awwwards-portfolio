@@ -1,0 +1,45 @@
+@media screen and (max-width: 768px) {
+    
+    .titles-skills {
+        font-size: 3.5rem !important;
+        margin-left: 2px;
+    }
+
+    .image-skills {
+        width: 15rem;
+    }
+
+    .quote-skills {
+        width: 15rem !important;
+        font-size: 0.9rem !important;
+        margin-right: 0 !important;
+        margin-left: 10px !important;
+        margin-top: 3rem !important;
+    }
+
+    .description-container {
+        margin-top: 10px !important;
+        font-size: 0.9rem !important;
+    }
+
+    .description-skills {
+        margin-top: 0px !important;
+        font-size: 0.8rem !important;
+    }
+
+    .image-with-a-robot {
+        width: 3.1rem;
+        margin-left: 10px !important;
+    }
+
+    .first-pack-skills {
+        margin-top: 8rem !important;
+        margin-right: 20px;
+    }
+
+    .second-pack-skills {
+        margin-top: -10rem !important;
+        margin-left: 2rem !important;
+    }
+
+}

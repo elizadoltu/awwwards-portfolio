@@ -1,0 +1,46 @@
+@media screen and (max-width: 768px){
+    
+    .services-container {
+        margin-top: 5rem !important;
+    }
+
+    .take-title {
+        font-size: 2.3rem !important;
+    }
+
+    .vision-title {
+        font-size: 2.3rem !important;
+        margin-left: 15px !important;
+    }
+
+    .second-line {
+        margin-right: 0px !important;
+    }
+
+    .second-line-title {
+        font-size: 2.3rem !important;
+    }
+
+    .image-and-title {
+        margin-top: 0px !important;
+    }
+
+    .level-title {
+        font-size: 2.3rem !important;
+    }
+
+    .your-vision {
+        display: none;
+    }
+
+    .image-container {
+        width: 14rem;
+    }
+
+    .description-services {
+        width: 20rem !important;
+        margin-right: 0px !important;
+        margin-left: 2rem;
+        font-size: 0.9rem;
+    }
+}

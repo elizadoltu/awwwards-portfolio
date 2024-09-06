@@ -5,7 +5,7 @@ const About = () => {
   return (
     <div className="h-screen w-full flex flex-col justify-center items-center">
       <div className="w-96 ml-44 first-caption-about">
-        <p className="text-left">
+        <p className="text-left font-urbanist">
           Hello, my name is Eliza - Teodora Doltu and I am a Romanian web
           developer and designer. Ever since I can remember, I've wanted to
           express my creativity in any way possible and create something

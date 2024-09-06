@@ -1,0 +1,48 @@
+@media screen and (max-width: 768px){
+    
+    .project-number {
+        font-size: 6rem !important;
+    }
+
+    .project-skills {
+        font-size: 0.9rem;
+        margin-left: 10px;
+    }
+
+    .project-details-container {
+        margin-left: 0px !important;
+    }
+
+    .project-name {
+        mix-blend-mode: exclusion;
+        margin-top: 3rem;
+        margin-left: 10px;
+        font-size: 3.5rem !important;
+    }
+
+    .details-container {
+        flex-direction: column;
+    }
+
+    .number-container {
+        align-items: flex-start !important;
+    }
+
+    .project-domains {
+        margin-left: 10px;
+        font-size: 0.9rem;
+        mix-blend-mode: exclusion;
+    }
+
+    .project-descriptions {
+        font-size: 0.8rem !important;
+        margin-top: -2rem !important;
+        margin-left: 10rem !important;
+        width: 13rem !important;
+    }
+
+    .project-date {
+        font-size: 2rem !important;
+        margin-top: 4rem !important;
+    }
+}

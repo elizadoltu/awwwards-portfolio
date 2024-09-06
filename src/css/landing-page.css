@@ -5,7 +5,7 @@
     }
     
     .overall-information {
-        font-size: 0.6rem;
+        font-size: 0.8rem;
         flex-direction: column;
     }
 
@@ -14,11 +14,11 @@
     }
 
     .middle-name {
-        font-size: 3rem !important;
+        font-size: 3.5rem !important;
     }
 
     .family-name {
-        font-size: 3rem !important;
+        font-size: 3.5rem !important;
         margin-top: -2px !important;
     }
 
@@ -34,7 +34,7 @@
 
     .more-general-info {
         margin-top: 10px !important;
-        font-size: 0.6rem !important;
+        font-size: 0.7rem !important;
         margin-right: 0 !important;
         margin-left: 100px !important;
     }

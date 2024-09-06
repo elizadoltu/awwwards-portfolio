@@ -1,0 +1,20 @@
+@media screen and (max-width: 768px){
+    .main-title {
+        font-size: 3.5rem !important;
+    }
+
+    .image-container {
+        width: 12rem;
+    }
+
+    .touch-title {
+        margin-left: 7.3rem !important;
+        margin-top: -10px !important;
+    }
+
+    .description-contact {
+        width: 18rem !important;
+        font-size: 0.8rem !important;
+        margin-left: 2rem !important;
+    }
+}
