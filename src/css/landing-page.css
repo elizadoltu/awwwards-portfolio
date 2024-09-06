@@ -1,0 +1,73 @@
+@media screen and (max-width: 768px) {
+    
+    body {
+        overflow-x: hidden;
+    }
+    
+    .overall-information {
+        font-size: 0.6rem;
+        flex-direction: column;
+    }
+
+    .titles-information {
+        margin-top: 15px;
+    }
+
+    .middle-name {
+        font-size: 3rem;
+    }
+
+    .family-name {
+        font-size: 3rem;
+        margin-top: -2px;
+    }
+
+    .image-landing-eliza {
+        width: 80%;
+    }
+
+    .personal-info-about-me {
+        position: absolute;
+        width: 15rem;
+        right: 0;
+    }
+
+    .more-general-info {
+        margin-top: 10px;
+        font-size: 0.6rem;
+        margin-right: 0;
+        margin-left: 100px;
+    }
+
+    .main-titles-container {
+        justify-content: center;
+        margin-top: 15rem;
+    }
+
+    .main-title-1 {
+        font-size: 2.8rem;
+    }
+
+    .main-title-2 {
+        font-size: 2.8rem;
+        margin-top: -5px;
+    }
+
+    .image-title-landing {
+        width: 7rem;
+    }
+
+    .svg-landing {
+        width: 5rem;
+        margin-top: -40px;
+        margin-left: -40px;
+    }
+
+    .social-media-links {
+        margin-top: 10px;
+    }
+
+    .image-social {
+        width: 1.2rem;
+    }
+}

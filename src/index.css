@@ -38,4 +38,5 @@ body {
   padding: 0%;
   background-color: #090909;
   color: #EDEDED;
+  overflow-x: hidden;
 }

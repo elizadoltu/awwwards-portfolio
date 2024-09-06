@@ -1,0 +1,24 @@
+@media screen and (max-width: 768px){
+    
+    .first-caption-about {
+        width: 16rem;
+        font-size: 1rem;
+        margin-left: 0;
+    }
+
+    .second-caption-about {
+        width: 18rem;
+        font-size: 1.5rem;
+        margin-top: 8rem;
+    }
+
+    .image-about {
+        margin-top: 0;
+        margin-left: 0;
+        width: 8rem;
+    }
+
+    .span-second-caption {
+        margin-left: 0;
+    }
+}
