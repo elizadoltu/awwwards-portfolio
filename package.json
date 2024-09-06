@@ -8,13 +8,16 @@
     "build": "tsc -b && vite build",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-    "generate-sitemap": "node sitemap-config.js"
+    "generate-sitemap": "node sitemap-config.js",
+     "prerender": "vite-plugin-ssr prerender",
+  "build:ssg": "npm run build && npm run prerender"
   },
   "dependencies": {
     "generate-sitemap": "^1.0.7",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "sitemap": "^8.0.0"
+    "sitemap": "^8.0.0",
+    "vite-plugin-ssr": "^0.4.142"
   },
   "devDependencies": {
     "@types/node": "^22.0.3",

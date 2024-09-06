@@ -1,9 +1,9 @@
-import Landing from './components/Landing';
-import About from './components/About';
-import Skills from './components/Skills';
-import Projects from './components/Projects';
-import Service from './components/Service';
-import Contact from './components/Contact';
+import Landing from './components/Landing.page';
+import About from './components/About.page';
+import Skills from './components/Skills.page';
+import Projects from './components/Projects.page';
+import Service from './components/Service.page';
+import Contact from './components/Contact.page';
 
 function App() {
 
