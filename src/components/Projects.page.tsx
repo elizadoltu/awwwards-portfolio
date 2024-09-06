@@ -29,7 +29,7 @@ const Projects: React.FC = () => {
       {data.data.map((project: ProjectData, index) => (
         <div
           key={index}
-          className="h-screen w-full flex flex-col"
+          className="h-fit w-full flex flex-col"
           style={{
             backgroundImage: project.image
               ? `url(${images[project.image]})`
